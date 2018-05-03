@@ -7,7 +7,7 @@ author: Ricardo
 
 **Name**|**institute**|**role**
 :-----|:-----:|-----:
-Victoria Dominguez Del Angel|French Institute of Bioinformatics (IFB)|Local organiser/PC member
+Victoria Dominguez Del Angel|ELIXIR-FR/IFB|Local organiser/Programme lead
 Rafa C Jimenez|ELIXIR Hub|Programme lead
 Toshiaki Katayama|DBCLS|PC member
 Leyla J Garcia|EMBL-EBI|PC member
@@ -17,8 +17,8 @@ Carole Goble|"The University of Manchester"|Advisor
 Chris Evelo|Maastricht University|Advisor
 Marc Hanauer|INSERM|PC member
 Denis Thieffry|The École normale supérieure|PC member
-Jacques van Helden|Aix-Marseille Université|PC member
-Claudine Médigue|UMR CEA/CNRS|PC member
+Jacques van Helden|ELIXIR-FR/IFB|PC member
+Claudine Médigue|ELIXIR-FR/IFB|PC member
 Benno Schwikowsky|Institut Pasteur|PC member
 David Salgado|Aix-Marseille Université|PC member
 
@@ -29,7 +29,7 @@ David Salgado|Aix-Marseille Université|PC member
 Dana Cernoskova|ELIXIR Hub|Admin lead
 Kelly Bannett|EMBL EBI|Purchusing department
 Delphine Boisard|Chateuform|Venue
-Victoria Dominguez Del Angel|Institut Français de Bioinformatique|Local organiser
+Victoria Dominguez Del Angel|ELIXIR-FR/IFB|Local organiser
 Toshiaki Katayama|DBCLS|Advisor
 Maxine|Res2000|Venue
 Ricardo Arcila|ELXIR Hub|Website
